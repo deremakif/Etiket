@@ -1,0 +1,14 @@
+﻿Timestamp	Filename	Error	Message
+2019-01-09 20:42:34.583 +0300	Etiket.fmp12	0	Import operations started
+2019-01-09 20:42:34.641 +0300	Etiket.fmp12	0	Import of tables from clipboard started
+2019-01-09 20:42:34.695 +0300	Etiket.fmp12	0	Table “Etiket” imported as “Etiket 2” since a table or table occurrence named “Etiket” already exists.
+2019-01-09 20:42:34.759 +0300	Etiket 2	0	fields imported : 15
+2019-01-09 20:42:34.795 +0300	Etiket.fmp12	0	tables imported : 1
+2019-01-09 20:42:34.827 +0300	Etiket.fmp12	0	Import completed
+2019-01-09 20:43:02.054 +0300	Etiket.fmp12	0	Import of tables from clipboard started
+2019-01-09 20:43:02.085 +0300	Etiket.fmp12	0	Table “Bayiler” imported as “Bayiler 2” since a table or table occurrence named “Bayiler” already exists.
+2019-01-09 20:43:02.136 +0300	Bayiler 2	0	fields imported : 15
+2019-01-09 20:43:02.173 +0300	Etiket.fmp12	0	tables imported : 1
+2019-01-09 20:43:02.208 +0300	Etiket.fmp12	0	Import completed
+2019-01-09 20:43:14.461 +0300	Etiket.fmp12	0	Import operations committed
+2019-01-09 20:43:14.555 +0300	Etiket.fmp12	0	==================================================================
